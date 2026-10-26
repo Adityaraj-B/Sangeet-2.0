@@ -1,0 +1,22 @@
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/Brushed Silver Musical Note Profile(1).png"
+  min_sdk_android: 21
+  adaptive_icon_background: "#000000"
+  adaptive_icon_foreground: "assets/Brushed Silver Musical Note Profile(1).png"
+  web:
+    generate: true
+    image_path: "assets/Brushed Silver Musical Note Profile(1).png"
+    background_color: "#000000"
+    theme_color: "#000000"
+  windows:
+    generate: true
+    image_path: "assets/Brushed Silver Musical Note Profile(1).png"
+    icon_size: 48
+  macos:
+    generate: true
+    image_path: "assets/Brushed Silver Musical Note Profile(1).png"
+  linux:
+    generate: true
+    image_path: "assets/Brushed Silver Musical Note Profile(1).png"

@@ -1,0 +1,6 @@
+# Example key.properties for production app release signing
+# Store your actual key.properties outside git or add it to .gitignore!
+keyAlias=upload
+keyPassword=your_key_password_here
+storeFile=../upload-keystore.jks
+storePassword=your_keystore_password_here
